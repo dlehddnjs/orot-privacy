@@ -3,7 +3,7 @@ layout: page
 title: "개인정보 처리방침 / Privacy Policy"
 ---
 
-**최종 업데이트 / Last updated: 2026-10-21**
+**최종 업데이트 / Last updated: 2026-10-23**
 
 ---
 
@@ -18,6 +18,14 @@ title: "개인정보 처리방침 / Privacy Policy"
 ### 위치 (선택)
 
 기록에 위치를 추가하면, 장소 이름을 찾기 위해 좌표가 [OpenStreetMap Nominatim](https://nominatim.openstreetmap.org/) 서비스로 전송됩니다. 전송되는 것은 좌표뿐이며 이름·계정·식별 정보는 보내지 않습니다. 변환된 장소 이름은 기기에 저장됩니다. 위치를 추가하지 않으면 위치 데이터는 어디로도 전송되지 않습니다.
+
+### 업데이트 확인
+
+새 버전이 나왔는지 알려 드리기 위해 하루 한 번 getorot.app에서 작은 버전 파일을 읽어 옵니다. 사용자나 기록에 관한 정보는 보내지 않습니다.
+
+### 홈 화면 위젯
+
+오롯 위젯을 추가하면 사진 최대 7장이 기기 안에서 오롯과 위젯만 읽을 수 있는 폴더에 복사됩니다. 앱 잠금을 켜면 복사하지 않습니다.
 
 ### 권한
 
@@ -53,6 +61,14 @@ All records (photos, notes, dates, locations) are stored exclusively on your dev
 ### Location (optional)
 
 If you choose to add a location to an entry, the coordinates are sent to [OpenStreetMap's Nominatim](https://nominatim.openstreetmap.org/) service solely to look up a place name. Only the coordinates are sent — no name, account, or identifying information. The resulting place name is stored on your device. If you never add a location, no location data is sent anywhere.
+
+### Update check
+
+Once a day, Orot reads a small version file from getorot.app to tell you when a new version is out. Nothing about you or your entries is sent.
+
+### Home Screen widget
+
+If you add the Orot widget, up to seven of your photos are copied into a folder that only Orot and its widget can read on your device. With App Lock on, nothing is copied.
 
 ### Permissions
 
