@@ -3,7 +3,7 @@ layout: page
 title: "개인정보 처리방침 / Privacy Policy"
 ---
 
-**최종 업데이트 / Last updated: 2026-10-23**
+**최종 업데이트 / Last updated: 2026-10-24**
 
 ---
 
@@ -22,6 +22,10 @@ title: "개인정보 처리방침 / Privacy Policy"
 ### 업데이트 확인
 
 새 버전이 나왔는지 알려 드리기 위해 하루 한 번 getorot.app에서 작은 버전 파일을 읽어 옵니다. 사용자나 기록에 관한 정보는 보내지 않습니다.
+
+### 지도
+
+오롯의 지도 탭은 OpenStreetMap 데이터로 만든 [OpenFreeMap](https://openfreemap.org/)의 지도 타일로 바탕 지도를 그립니다. 지도를 보여 주려면 기기가 지금 보고 있는 지역의 타일을 요청하므로, 일반 웹사이트를 열 때처럼 OpenFreeMap에 그 지역과 IP 주소가 전달됩니다. 순간·사진·저장한 장소는 보내지 않으며 핀은 기기 안에서 그립니다. 지도 탭을 열지 않으면 지도 타일을 요청하지 않습니다.
 
 ### 홈 화면 위젯
 
@@ -61,6 +65,10 @@ All records (photos, notes, dates, locations) are stored exclusively on your dev
 ### Location (optional)
 
 If you choose to add a location to an entry, the coordinates are sent to [OpenStreetMap's Nominatim](https://nominatim.openstreetmap.org/) service solely to look up a place name. Only the coordinates are sent — no name, account, or identifying information. The resulting place name is stored on your device. If you never add a location, no location data is sent anywhere.
+
+### Map
+
+Orot's Map tab draws its background map with map tiles from [OpenFreeMap](https://openfreemap.org/), which are built from OpenStreetMap data. To show the map, your device requests the tiles for the area you are looking at, so OpenFreeMap receives that area and your IP address, as with any website. Your moments, photos and the places you saved are never sent — the pins are drawn on your device. If you don't open the Map tab, no map tiles are requested.
 
 ### Update check
 
