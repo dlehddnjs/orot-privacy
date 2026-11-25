@@ -50,7 +50,7 @@ title: "개인정보 처리방침 / Privacy Policy"
 
 ### 문의
 
-궁금하신 점은 아래 이메일로 문의해주세요: [simplefunction4app@gmail.com](mailto:simplefunction4app@gmail.com)
+궁금하신 점은 아래 이메일로 문의해주세요: [hello@simplefunction.dev](mailto:hello@simplefunction.dev)
 
 ---
 
@@ -97,4 +97,4 @@ All data can be deleted at any time from Settings → Delete All Data. Deleting 
 
 ### Contact
 
-If you have any questions: [simplefunction4app@gmail.com](mailto:simplefunction4app@gmail.com)
+If you have any questions: [hello@simplefunction.dev](mailto:hello@simplefunction.dev)
